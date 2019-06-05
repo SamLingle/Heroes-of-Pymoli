@@ -19,16 +19,16 @@ Technologies
 Project Findings:
 
 Age Demographics:
-https://github.com/SamLingle/Heroes-of-Pymoli/blob/master/PNG_files/Age%20Demographics.png
+![Alt text](https://github.com/SamLingle/Heroes-of-Pymoli/blob/master/PNG_files/Age%20Demographics.png)
 Player Count:
-https://github.com/SamLingle/Heroes-of-Pymoli/blob/master/PNG_files/Total_Players.png
+![Alt text](https://github.com/SamLingle/Heroes-of-Pymoli/blob/master/PNG_files/Total_Players.png)
 Purchasing Analysis:
   Average Price:
-  https://github.com/SamLingle/Heroes-of-Pymoli/blob/master/PNG_files/Average_Price.png
+  ![Alt text](https://github.com/SamLingle/Heroes-of-Pymoli/blob/master/PNG_files/Average_Price.png)
   By gender:
-  https://github.com/SamLingle/Heroes-of-Pymoli/blob/master/PNG_files/Gender_Purchase.png
+  ![Alt text](https://github.com/SamLingle/Heroes-of-Pymoli/blob/master/PNG_files/Gender_Purchase.png)
   Top Spenders:
-  https://github.com/SamLingle/Heroes-of-Pymoli/blob/master/PNG_files/Top_Spenders.png
+  ![Alt text](https://github.com/SamLingle/Heroes-of-Pymoli/blob/master/PNG_files/Top_Spenders.png)
 
 
 (Provide more detailed overview of the project. Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing? Feel free to number or bullet point things here)
