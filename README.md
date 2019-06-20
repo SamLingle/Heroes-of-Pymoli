@@ -35,3 +35,7 @@ The purpose of this project is to mine through player data in the fictional game
  
 ### Top Spenders:
 ![Alt text](https://github.com/SamLingle/Heroes-of-Pymoli/blob/master/PNG_files/Top_Spenders.png)
+
+
+## Conclusions
+With male gamers making up the bulk of in-game purchases, and almost half of purchase revenue coming from the 20-24 year old age range. We can infer that it sould be smart to market the game in areas with a known audience of men in their early 20's. I would also suggest a tiered loyalty system for the game's users with the highest number of in-game purchases to incentivize more sales and better relations with the best customers.
